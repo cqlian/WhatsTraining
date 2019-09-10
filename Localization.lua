@@ -60,6 +60,21 @@ local localeText = {
         TOTALSAVINGS_FORMAT = "总共节省: %s",
         LEVEL_FORMAT = "等级 %s",
         TAB_TEXT = "我能学什么技能?"
+    },
+	zhTW = {
+        AVAILABLE_HEADER = "可學",
+        MISSINGREQS_HEADER = "滿足條件方可學習",
+        NEXTLEVEL_HEADER = "即將學習",
+        NOTLEVEL_HEADER = "等級不夠",
+        MISSINGTALENT_HEADER = "缺少相關天賦",
+        IGNORED_HEADER = "已忽略技能",
+        KNOWN_HEADER = "已學技能",
+        PET_HEADER = "寵物技能",
+        COST_FORMAT = "花費: %s",
+        TOTALCOST_FORMAT = "總花費: %s",
+        TOTALSAVINGS_FORMAT = "總共節省: %s",
+        LEVEL_FORMAT = "等級 %s",
+        TAB_TEXT = "我能學什麼技能?"
     }
 }
 
